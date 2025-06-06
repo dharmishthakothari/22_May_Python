@@ -1,4 +1,5 @@
-lst_temp=['Diya',23,167.34,'Ahmedabad','Tops']
-print(lst_temp)
-for i in lst_temp:
-    print(i)
+lst_city=['ahemedabad','Baroda','Surat','']
+lst_city_len=[]
+for i in lst_city:
+    lst_city_len.append(len(i))
+print(lst_city_len)
