@@ -1,0 +1,19 @@
+cars_dict = {"ev":{"maruti":
+                   {"SCross":{'price':1000000,'engine_capacity' : '1200cc','no_of_seat': 5},
+                    "Baleno":{'price':700000,'engine_capacity' : '1100cc','no_of_seat' : 5}},
+                   "Hundai":
+                    {"Creata":{'price':120000,'engine_capacity': '1200cc','no_of_seat': 5},
+                    "Ioniq":{'price' :1000000,'engine_capacity' :'1000cc','no_of_seat': 5}},
+                   "KIA":
+                    {"EV6":{'price':1000000,'engine_capacity': '1000cc','no_of_seat' : 5},
+                    "EV3":{'price':100000,'engine_capacity':'1000cc','no_of_seat':5}}},
+            "petrol":{"maruti":
+                   {"SCross":{'price':1000000,'engine_capacity' : '1200cc','no_of_seat': 5},
+                    "Baleno":{'price':700000,'engine_capacity' : '1100cc','no_of_seat' : 5}},
+                   "Hundai":
+                    {"Creata":{'price':120000,'engine_capacity': '1200cc','no_of_seat': 5},
+                    "Ioniq":{'price' :1000000,'engine_capacity' :'1000cc','no_of_seat': 5}},
+                   "KIA":
+                    {"EV6":{'price':1000000,'engine_capacity': '1000cc','no_of_seat' : 5},
+                    "EV3":{'price':100000,'engine_capacity':'1000cc','no_of_seat':5}}}
+}
