@@ -1,0 +1,8 @@
+file=open("MyGreeting.txt","r")
+file.seek(5)
+data=file.readline()
+print(data)
+# data=file.readline()
+# print(data)
+# curr_pos=file.tell()
+# print(curr_pos)
